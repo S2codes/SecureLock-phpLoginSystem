@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+.lnk{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+.lnk:hover{
+    color: black;
+    text-decoration: underline;
+}
